@@ -1,0 +1,17 @@
+<Window xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Width="500" Height="700"
+    x:Class="MelonLoader.Installer.Views.MainWindow"
+    Icon="/Assets/icon.ico"
+    Title="MelonixLoader Installer"
+    WindowStartupLocation="CenterScreen"
+    CanResize="False"
+    RenderOptions.BitmapInterpolationMode="HighQuality">
+    <Grid>
+        <Image Source="/Assets/bg.png" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Stretch="UniformToFill" />
+        <Border Name="Viewport" Margin="25" />
+    </Grid>
+</Window>
