@@ -61,3 +61,8 @@ MelonixLoader.Installer is licensed under the Apache License, Version 2.0. See [
 <br>
 
 > See [MelonixLoader Wiki](https://Melonixwiki.xyz/#/credits) for the full Credits.
+> 
+
+## Image licencing
+
+MelonixLoader background image provided by KDE under the Creative Commons Attribution-Share Alike 3.0 
